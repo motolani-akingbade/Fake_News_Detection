@@ -15,3 +15,9 @@ For Windows (Command Prompt or PowerShell):
 
 python -m venv venv
 venv\Scripts\activate
+
+## **3. Install Required Dependencies**
+
+pip install -r requirements.txt
+
+Note : This will install all necessary Python packages listed in requirements.txt.
