@@ -4,3 +4,14 @@ Open a terminal (or command prompt) and run:
 git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
  
+## **2. Create and Activate a Virtual Environment**
+
+For macOS/Linux:
+
+python3 -m venv venv
+source venv/bin/activate
+
+For Windows (Command Prompt or PowerShell):
+
+python -m venv venv
+venv\Scripts\activate
