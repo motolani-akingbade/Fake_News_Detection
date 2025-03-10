@@ -2,6 +2,7 @@
 Open a terminal (or command prompt) and run:
 
 git clone https://github.com/motolani-akingbade/Fake_News_Detection.git
+
 cd your-repository-name
  
 ## **2. Create and Activate a Virtual Environment**
