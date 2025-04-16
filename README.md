@@ -8,7 +8,8 @@ This project focuses on detecting fake news and AI-generated content using machi
 
 Click the button below to open and run the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tgsPr5W1tKB2yd-gVjL2mzWPesOdQdYe?authuser=1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tgsPr5W1tKB2yd-gVjL2mzWPesOdQdYe?authuser=1#scrollTo=WeHpeENZ6LlO![image](https://github.com/user-attachments/assets/4ebb5105-cf8a-4318-8fa8-88e4d400eb2b)
+)
 
 ---
 
